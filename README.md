@@ -5,3 +5,4 @@
 |003|[Largest prime factor](https://projecteuler.net/problem=3)|[C++](./003/003.cpp)|[5%](./003/README.md)|
 |004|[Largest palindrome product](https://projecteuler.net/problem=4)|[C++](./004.cpp)|[5%](./004/README.md)|
 |005|[Smallest multiple](https://projecteuler.net/problem=5)|[C++](./005/005.cpp)|[5%](./005/README.md)|
+|006|[Sum square difference](https://projecteuler.net/problem=6)|[C++](./006/006.cpp)|[5%](./006/README.md)|
