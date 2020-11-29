@@ -13,4 +13,5 @@
 |014|[Longest Collatz sequence](https://projecteuler.net/problem=14)|[C++](./014/014.cpp)|[5%](./014/README.md)|
 |015|[Lattice paths](https://projecteuler.net/problem=15)|[C++](./015/015.cpp)|[5%](./015/README.md)|
 |018|[Maximum path sum I](https://projecteuler.net/problem=18)|[C++](./018/018.cpp)|[5%](./018/README.md)|
+|022|[Names scores](https://projecteuler.net/problem=22)|[C++](./022/022.cpp)|5%|
 |025|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|[C++](./025/025.cpp)|[5%](./025/README.md)|
