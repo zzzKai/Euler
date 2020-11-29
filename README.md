@@ -15,5 +15,5 @@
 |018|[Maximum path sum I](https://projecteuler.net/problem=18)|[C++](./018/018.cpp)|[5%](./018/README.md)|
 |022|[Names scores](https://projecteuler.net/problem=22)|[C++](./022/022.cpp)|5%|
 |025|[1000-digit Fibonacci number](https://projecteuler.net/problem=25)|[C++](./025/025.cpp)|[5%](./025/README.md)|
-|032|[Pandigital products](https://projecteuler.net/problem=32)|[C++](./032/032.cpp)|[5%][./032/README.md]|
+|032|[Pandigital products](https://projecteuler.net/problem=32)|[C++](./032/032.cpp)|[5%](./032/README.md)|
 |033|[Digit cancelling fractions](https://projecteuler.net/problem=33)|[C++](./033/033.cpp)|[5%](./033/README.md)|
